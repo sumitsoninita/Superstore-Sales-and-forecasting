@@ -51,9 +51,9 @@ This dashboard is aimed at business stakeholders and analysts who want to:
 ## 📷 Snapshots
 
 <div align="center">
-  <img src="dashboard_1.png" width="700"/>
+  <img src="Dashboard 1.png" width="700"/>
   <br/>
-  <img src="dashboard_2.png" width="700"/>
+  <img src="Dashboard 2.png" width="700"/>
 </div>
 
 ---
