@@ -1,10 +1,10 @@
-# 📊 SuperStore Sales Dashboard - Power BI Project
+# SuperStore Sales Dashboard - Power BI Project
 
 Welcome to the **SuperStore Sales Dashboard** project! This Power BI dashboard presents a detailed sales and profit analysis of a fictional SuperStore, helping uncover actionable insights across regions, categories, time, and more.
 
 ---
 
-## 🚀 Project Highlights
+##  Project Highlights
 
 - **$1.57M+ in Sales**, **22K Orders**, and **$175K+ Profit** visualized.
 - Tracked **Average Delivery Time** (4 Days) for performance insights.
@@ -15,20 +15,20 @@ Welcome to the **SuperStore Sales Dashboard** project! This Power BI dashboard p
 
 ## 📈 Key Visuals & Insights
 
-- 🟠 **Donut Charts** for sales by:
+-  **Donut Charts** for sales by:
   - Payment Mode (Online 35%, COD 43%)
   - Customer Segment (Consumer 48%, Corporate 33%)
-- 📍 **Map View**: Sales & Profit by US States.
-- 📦 **Sales by Ship Mode**: Standard (0.33M), Same Day (0.03M), etc.
-- 📊 **Category & Subcategory Performance**: Phones ($0.20M), Chairs, Binders.
-- 📉 **Line Graphs**:
+-  **Map View**: Sales & Profit by US States.
+-  **Sales by Ship Mode**: Standard (0.33M), Same Day (0.03M), etc.
+-  **Category & Subcategory Performance**: Phones ($0.20M), Chairs, Binders.
+-  **Line Graphs**:
   - Monthly Sales & Profit by Year (2019–2020)
   - Sales Forecast for the next 15 days
-- 🔁 **Region-wise Analysis**: West tops with 33.3% sales share.
+-  **Region-wise Analysis**: West tops with 33.3% sales share.
 
 ---
 
-## 🛠 Tools Used
+##  Tools Used
 
 - **Power BI Desktop**
 - DAX for KPIs and calculated measures
@@ -37,7 +37,7 @@ Welcome to the **SuperStore Sales Dashboard** project! This Power BI dashboard p
 
 ---
 
-## 📌 Purpose
+##  Purpose
 
 This dashboard is aimed at business stakeholders and analysts who want to:
 
@@ -48,7 +48,7 @@ This dashboard is aimed at business stakeholders and analysts who want to:
 
 ---
 
-## 📷 Snapshots
+##  Snapshots
 
 <div align="center">
   <img src="Dashboard 1.png" width="700"/>
@@ -58,7 +58,7 @@ This dashboard is aimed at business stakeholders and analysts who want to:
 
 ---
 
-## 🧠 Insights Gained
+##  Insights Gained
 
 - COD remains the most used payment mode.
 - Phones lead in sub-category sales.
